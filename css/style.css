@@ -1,0 +1,33 @@
+#logo{
+	height: 65px;
+	width: auto;
+}
+#logo2{
+	height: 65px;
+	width: auto;
+}
+
+#logo3{
+	height: 64px;
+	width: auto;
+}
+
+#logo4{
+	height: 64px;
+	width: auto;
+}
+
+#registro{
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+#formulario{
+	padding-top: 100px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
